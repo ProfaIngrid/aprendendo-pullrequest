@@ -1,6 +1,8 @@
 Lista de alunos IoT:
 
 
-Luis Ricardo
 Seu nome aqui 
 Vinícius de A.Lima
+José Luiz
+Luis Ricardo
+

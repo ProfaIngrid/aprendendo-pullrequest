@@ -1,7 +1,5 @@
 Lista de alunos IoT:
 
-Matheus Hallan 
-Seu nome aqui 
 Vinícius de A.Lima
 José Luiz
 Luis Ricardo
